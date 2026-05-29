@@ -529,7 +529,7 @@ _(Note: Red-black trees appear consistently in the exams as part of advanced dat
 
 - 2944 / 2024 / Semester IV / Q7(a)
 
-14. Recall the scheduling problem wherein we are given a single resource and a set of requests having deadlines. A request is said to be late if it misses the deadline. Our goal is to minimize the maximum lateness... Argue that all schedules with no idle time and no inversions have the same maximum lateness. **Source:**
+1. Recall the scheduling problem wherein we are given a single resource and a set of requests having deadlines. A request is said to be late if it misses the deadline. Our goal is to minimize the maximum lateness... Argue that all schedules with no idle time and no inversions have the same maximum lateness. **Source:**
 
 - 2208 / 2019 / Semester IV / Q3(b)
 - 4523 / 2023 / Semester IV / Q2(a)

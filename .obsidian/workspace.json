@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem4/DAA/Questions.md",
+                "file": "Sem4/DAA/CheatSheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "CheatSheet"
             }
           }
         ]
@@ -171,13 +171,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "b8cb28bf939ad7f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,6 +204,9 @@
   },
   "active": "d1098da8d2756aa8",
   "lastOpenFiles": [
-    "Sem4/DAA/Questions.md"
+    "Sem4/DAA/Questions.md",
+    "Sem4/DAA/CheatSheet.md",
+    "Sem4/DAA/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
+    "Sem4/DAA/Data Communications and Networking 5E Behrouz A_ Forouzan 5, 2013.pdf"
   ]
 }
