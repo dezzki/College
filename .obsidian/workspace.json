@@ -11,12 +11,14 @@
             "id": "d1098da8d2756aa8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Sem3/Drawing 2025-09-20 04.06.31.excalidraw.md"
+                "file": "Sem4/DSE/Exam Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-20 04.06.31.excalidraw"
+              "icon": "lucide-file",
+              "title": "Exam Questions"
             }
           }
         ]
@@ -202,7 +204,10 @@
   },
   "active": "d1098da8d2756aa8",
   "lastOpenFiles": [
+    "Sem4/DSE/assignment.md",
+    "Sem4/DSE/Exam Questions.md",
     "Sem3/Drawing 2025-09-20 04.06.31.excalidraw.md",
+    "Sem4/DSE/Exam Questions.md",
     "Sem4/DAA/CheatSheet.md",
     "Sem4/DAA/Questions.md",
     "Sem4/DAA/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
