@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions.md",
+                "file": "DMS/Questions.md",
                 "mode": "source",
                 "source": false
               },
@@ -202,10 +202,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d1098da8d2756aa8",
+  "active": "4bb055e88f7238b0",
   "lastOpenFiles": [
+    "DMS",
     "Sem4/DBMS/Questions.md",
-    "Questions.md",
+    "DMS/Questions.md",
     "Sem4/DAA/Questions.md",
     "Sem4/CN/Questions.md",
     "Sem4/DSE/Exam Questions.md",
