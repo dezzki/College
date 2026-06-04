@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMS/Questions.md",
+                "file": "Sem4/CN/ImpQues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "ImpQues"
             }
           }
         ]
@@ -202,13 +202,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4bb055e88f7238b0",
+  "active": "d1098da8d2756aa8",
   "lastOpenFiles": [
+    "Sem4/CN/Questions.md",
+    "Sem4/CN/ImpQues.md",
+    "DMS/Questions.md",
     "DMS",
     "Sem4/DBMS/Questions.md",
-    "DMS/Questions.md",
     "Sem4/DAA/Questions.md",
-    "Sem4/CN/Questions.md",
     "Sem4/DSE/Exam Questions.md",
     "test.md",
     "Sem4/DSE/assignment.md",
